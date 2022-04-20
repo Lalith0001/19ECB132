@@ -25,4 +25,4 @@ key = 10
 print("Index:", int(binarySearch(arr, 0, n-1, key) ))
 
 # This code is contributed by
-# Smitha Dinesh Semwal
+#LALITH
