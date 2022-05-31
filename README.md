@@ -1,4 +1,4 @@
-[factorial.c](factoria.c)
+[factorial.c](factoria.c) 
 [btree.c](btree.c)
 [binarysearch.c](binarysearch.c)
 [arthemeticoperators.c](arthemeticoperators.c)
@@ -7,4 +7,3 @@
 [lettercount.c](lettercount.c)
 [theradedbinary.c](theradedbinary.c)
 [doublelinkedlist.c](doublelinkedlist.c)
-
