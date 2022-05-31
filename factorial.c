@@ -10,3 +10,7 @@ int main()
   printf("Factorial of %d is: %d",number,fact);    
 return 0;  
 }   
+~/19ECB132$ gcc factorial.c
+~/19ECB132$ ./a.out
+Enter a number: 3
+Factorial of 3 is: 6

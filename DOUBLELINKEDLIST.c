@@ -149,7 +149,7 @@ void deletion_beginning()
         head -> next -> prev = temp;  
         free(head);  
         head = temp -> next;  
-    }  
+    
 }  
 void deletion_last()  
 {  
