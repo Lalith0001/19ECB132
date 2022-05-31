@@ -9,5 +9,7 @@
 [README.C](README.C)        
 [DOUBLELINKEDLIST.C](DOUBLELINKEDLIST.C)   
 [modifysinglelinkedlist.c](modifysinglelinkedlist.c)       
+[modifyanelementin.c](modifyanelementin.c)      
+
 
 
