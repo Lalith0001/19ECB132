@@ -77,3 +77,8 @@ int main()
     }
     return 0;
 }
+ ~/19ECB132-2$ gcc modifyanelementin.c
+~/19ECB132-2$ ./a.out
+Enter size of array5
+Enter 1 elementr 
+Enter 2 elementEnter 3 elementEnter 4 elementEnter 5 elementEnter i to insert/ d to deleteWrong choice~/19ECB132-2$
