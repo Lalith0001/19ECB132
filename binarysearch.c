@@ -198,4 +198,9 @@ int main() {
     */
     printf("\n");
 
-    retu
+    return 0;
+  }
+~/19ECB132$ gcc binarysearch.c
+~/19ECB132$ ./a.out
+ 1  5  7  9  12  15  20  25  30  40  42  45 
+ 5  7  12  15  20  25  30  42 
