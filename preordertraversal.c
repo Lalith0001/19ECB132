@@ -49,3 +49,6 @@ int main(){
     return 0;
 }
 
+~/19ECB132-1$ gcc preordertraversal.c
+~/19ECB132-1$ ./a.out
+4 1 5 2 6
