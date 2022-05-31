@@ -50,4 +50,11 @@ void swap(int *a, int *b)
     *a = *b;
     *b = temp;
 }
-
+~/19ECB132-2$ gcc reversingarray.c
+~/19ECB132-2$ ./a.out
+enter the size 
+3
+Enter your elements 
+w
+0 0 0 
+0 0 0 
