@@ -94,3 +94,7 @@ int main()
 	inOrder(root);
 	return 0;
 }
+~/19ECB132$ gcc theradedbinary.c
+~/19ECB132$ ./a.out
+Inorder traversal of created threaded tree is
+4 2 5 1 6 3 7 
