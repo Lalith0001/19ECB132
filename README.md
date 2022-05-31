@@ -7,5 +7,7 @@
 [LETTERCOUNT.C](LETTERCOUNT.C)      
 [THERADEDBINARY.C](THERADEDBINARY.C)       
 [README.C](README.C)        
-[DOUBLELINKEDLIST.C](DOUBLELINKEDLIST.C)        
+[DOUBLELINKEDLIST.C](DOUBLELINKEDLIST.C)   
+[modifysinglelinkedlist.c](modifysinglelinkedlist.c)       
+
 
