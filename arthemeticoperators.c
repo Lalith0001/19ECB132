@@ -17,3 +17,11 @@ int main()
     
     return 0;
 }
+~/19ECB132$ gcc arthemeticoperators.c
+~/19ECB132$ ./a.out
+a+b = 13 
+a-b = 5 
+a*b = 36 
+a/b = 2 
+Remainder when a divided by b = 1 
+
