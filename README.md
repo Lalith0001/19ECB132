@@ -10,6 +10,10 @@
 [DOUBLELINKEDLIST.C](DOUBLELINKEDLIST.C)   
 [modifysinglelinkedlist.c](modifysinglelinkedlist.c)       
 [modifyanelementin.c](modifyanelementin.c)      
+[linerasearch.c](linerasearch.c)      
+[preordertraversal.c](preordertraversal.c)      
+[reversingarray.c](reversingarray.c)      
+
 
 
 
