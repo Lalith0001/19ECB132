@@ -11,3 +11,8 @@ int main(void) {
   printf("\nThe number of letters in the given sentence are : %d\n", number_of_letters);
   return 0;
 }
+ ~/19ECB132$ gcc lettercount.c
+~/19ECB132$ ./a.out
+Enter a sentence: lalith is good
+
+The number of letters in the given sentence are : 6
